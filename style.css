@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+main h1{
+    background-color:#fad676;
+    text-align: right;
+    padding: 10px;
+
+}
+main h2{
+background-color:#fad676;
+}
+footer{
+    background-color:#282955 ;
+}
+main a {
+text-decoration: none;
+}
+main p{
+    background-color:#f7ccc6;
+}
