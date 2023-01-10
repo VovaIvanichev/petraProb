@@ -19,3 +19,14 @@ text-decoration: none;
 main p{
     background-color:#f7ccc6;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+nav a{
+    text-decoration: none;
+    color: #282955 ;
+    padding: 1%;
+    border: 3px double #f7ccc6;
+    border-radius: 30%; 
+}
