@@ -23,6 +23,11 @@ a{
     text-decoration: none;
     color: black;
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+}
 nav a{
     text-decoration: none;
     color: #282955 ;
